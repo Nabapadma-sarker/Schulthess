@@ -1,0 +1,117 @@
+@media (max-width: 1920px) {
+.carousel-caption {
+    left: 22%;
+  }
+}
+
+@media (max-width: 1680px) {
+.carousel-caption {
+    left: 19%;
+  }
+}
+
+@media (max-width: 1600px) {
+.carousel-caption {
+    left: 17%;
+  }
+}
+
+@media (max-width: 1440px) {
+.carousel-caption {
+    left: 13%;
+  }
+}
+
+@media (max-width: 1366px) {
+.carousel-caption {
+    left: 12%;
+  }
+}
+/* lg */ 
+@media (max-width: 1280px) {
+.carousel-caption {
+    left: 9%;
+  }
+}
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+ 
+ 
+
+
+}
+
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+   .logo-footer {
+    margin-left: 0px;
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
+
+}
+
+/* xs */
+@media (max-width: 767px) {
+      .logo-footer {
+    margin-left: 0px !important;
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
+.carousel-caption {
+    padding-bottom: 25px;
+}
+
+}
+
+@media (max-width: 663px) {
+.carousel-caption {
+    padding-bottom: 0;
+}
+}
+
+/* XS Portrait */
+@media (max-width: 520px) {
+.header_top .nav > li {
+width:100%;
+display:block;
+text-align:center;
+}
+.pull-right {
+    float: none !important;
+}
+.product-main {
+    padding: 0px 10% !important;
+}
+.content-left {
+    margin-left: 0px;
+	padding:10%;
+	text-align: justify;
+	}
+	
+	.product1 {
+    padding: 0px 10%;
+}
+.carousel-caption {
+    padding-bottom: 0;
+    bottom: 7px;
+}
+
+.carousel-caption h3 {
+    font-size: 1.5em;
+}
+.navbar-brand img{
+width:100%
+}
+}
+@media (max-width: 350px) {
+.carousel-caption h3 {
+    font-size: 1em;
+}
+}
