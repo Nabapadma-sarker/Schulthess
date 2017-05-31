@@ -1,17 +1,16 @@
 wordpress Theme
 =====================
 
-it is a uropean magazine wordpress theme. I made most of section of this project.
+it is a woocommerce wordpress theme. I made this whole project from scratch.
 
-here used so many features --
+some features --
 
-1. custom widgets.
-2. custom fron-end design.
-3. less and scss
-4. few plugin like Advance custom field
-5. api slider
+* woo-commerce plugin integration within this theme.
+* producduct listing categorywise.
+* product single page has some custom layout
+* Bootstrap Carosel
+* custom navigation style
 
 
 website URL:
-https://www.desiblitz.com/
-[desiblitz](https://www.desiblitz.com/)
+http://schulthess.nl/
